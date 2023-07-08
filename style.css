@@ -1,0 +1,36 @@
+.topnav {
+  background-color: #5695e5;
+  overflow: hidden;
+  display: flex;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 29px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.right_seperate {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  padding-left: 70%;
+  padding-right: 7%;
+}
+.avatar_circle {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: 6%;
+}
+.graphSales {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    height: 800px;
+}
